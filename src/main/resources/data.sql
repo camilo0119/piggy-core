@@ -1,0 +1,10 @@
+insert into COIN (id, currency) values (1, 50);
+insert into COIN (id, currency) values (2, 100);
+insert into COIN (id, currency) values (3, 200);
+insert into COIN (id, currency) values (4, 500);
+insert into COIN (id, currency) values (5, 1000);
+insert into BALANCE (id, currency, balance) values (1, 50, 0);
+insert into BALANCE (id, currency, balance) values (2, 100, 0);
+insert into BALANCE (id, currency, balance) values (3, 200, 0);
+insert into BALANCE (id, currency, balance) values (4, 500, 0);
+insert into BALANCE (id, currency, balance) values (5, 1000, 0);
